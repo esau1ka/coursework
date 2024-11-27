@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.12.5, pytest-8.3.3, pluggy-1.5.0
+rootdir: /Users/a0000/PycharmProjects/coursework
+configfile: pyproject.toml
+collected 5 items
+
+tests/test_product_category.py .....                                     [100%]
+
+============================== 5 passed in 0.01s ===============================
